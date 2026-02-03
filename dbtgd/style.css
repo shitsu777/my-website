@@ -1,0 +1,18 @@
+p {
+    color:forestgreen
+}
+.highlight{
+    background-color: rgb(132, 209, 209);
+}
+#main-title {
+    color: rgb(23, 105, 105);
+}
+.text{
+    color: #17a13a;              /* 文字顏色 */
+    font-size: 16px;          /* 字體大小 */
+    font-weight: bold;        /* 粗體 */
+    font-family: Arial;       /* 字體 */
+    text-align: center;       /* 對齊 */
+    text-decoration: none;    /* 移除底線 */
+    line-height: 1.5;
+}
